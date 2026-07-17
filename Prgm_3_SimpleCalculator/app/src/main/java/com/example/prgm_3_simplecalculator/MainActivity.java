@@ -1,4 +1,4 @@
-package com.example.calculator;
+package com.example.prgm_3_simplecalculator;
 
 import android.os.Bundle;
 import android.widget.Button;
@@ -6,6 +6,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.prgm_3_simplecalculator.R;
 
 public class MainActivity extends AppCompatActivity {
 
