@@ -1,10 +1,10 @@
 package com.example.prgm_2_factorial;
 
 import android.os.Bundle;
-import android.widget.EditText;
-import android.widget.TextView;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -21,22 +21,28 @@ public class MainActivity extends AppCompatActivity {
 
         editText = findViewById(R.id.editTextText);
         textView = findViewById(R.id.textView);
-
-        button = new Button(this);
-        button.setText("Calculate");
+        button = findViewById(R.id.button);
 
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
-                int num = Integer.parseInt(editText.getText().toString());
-                long fact = 1;
+                String input = editText.getText().toString();
 
-                for (int i = 1; i <= num; i++) {
-                    fact = fact * i;
+                if (!input.isEmpty()) {
+
+                    int num = Integer.parseInt(input);
+                    long fact = 1;
+
+                    for (int i = 1; i <= num; i++) {
+                        fact = fact * i;
+                    }
+
+                    textView.setText("Factorial = " + fact);
+
+                } else {
+                    textView.setText("Enter a number");
                 }
-
-                textView.setText("Factorial = " + fact);
             }
         });
     }
