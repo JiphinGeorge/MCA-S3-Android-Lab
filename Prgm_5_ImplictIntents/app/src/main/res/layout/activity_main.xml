@@ -4,58 +4,58 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
+    android:background="#24C5B2"
     android:gravity="center"
+    android:orientation="vertical"
     android:padding="24dp"
-    android:background="#F5F5F5"
     tools:context=".MainActivity">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Implicit Intent Demo"
-        android:textSize="26sp"
-        android:textStyle="bold"
+        android:layout_marginBottom="40dp"
+        android:text="Implicit Intent"
         android:textColor="#1A237E"
-        android:layout_marginBottom="40dp"/>
+        android:textSize="26sp"
+        android:textStyle="bold" />
 
     <Button
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="#08E411"
         android:text="Open Map"
-        android:textSize="18sp"
         android:textColor="#FFFFFF"
-        android:backgroundTint="#4CAF50"
-        android:layout_marginBottom="16dp"/>
+        android:textSize="18sp" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Open Play Store"
-        android:textSize="18sp"
-        android:textColor="#FFFFFF"
+        android:layout_marginBottom="16dp"
         android:backgroundTint="#2196F3"
-        android:layout_marginBottom="16dp"/>
+        android:text="Open Play Store"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp" />
 
     <Button
         android:id="@+id/button3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Send Email"
-        android:textSize="18sp"
-        android:textColor="#FFFFFF"
+        android:layout_marginBottom="16dp"
         android:backgroundTint="#FF9800"
-        android:layout_marginBottom="16dp"/>
+        android:text="Send Email"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp" />
 
     <Button
         android:id="@+id/button4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:backgroundTint="#9C27B0"
         android:text="Open Messenger"
-        android:textSize="18sp"
         android:textColor="#FFFFFF"
-        android:backgroundTint="#9C27B0"/>
+        android:textSize="18sp" />
 
 </LinearLayout>
