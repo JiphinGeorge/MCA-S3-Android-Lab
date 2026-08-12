@@ -1,0 +1,22 @@
+com.example.prgm_3_simplecalculator
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id button2
+id button3
+id button4
+id editTextText
+id editTextText2
+id main
+id textView
+id title
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base_Theme_Prgm_3_SimpleCalculator
+style Theme_Prgm_3_SimpleCalculator
+xml backup_rules
+xml data_extraction_rules
