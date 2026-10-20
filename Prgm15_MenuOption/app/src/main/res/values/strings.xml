@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practise</string>
+    <string name="menu_factorial">Factorial</string>
+    <string name="menu_gender">Gender</string>
+    <string name="hint_enter_number">Enter a number (0–20)</string>
+    <string name="btn_calculate">Calculate Factorial</string>
+    <string name="desc_gender_image">Selected gender image</string>
+</resources>

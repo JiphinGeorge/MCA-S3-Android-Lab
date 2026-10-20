@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/factorial"
+        android:title="@string/menu_factorial"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/gender"
+        android:title="@string/menu_gender"
+        app:showAsAction="never" />
+
+</menu>
