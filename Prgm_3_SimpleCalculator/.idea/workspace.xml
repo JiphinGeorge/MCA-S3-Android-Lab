@@ -17,6 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1b1e17d-deb1-4573-93a7-4bab5a676fbd" name="Changes" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/../Exam05/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exam05/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exam05/app/.gitignore" afterDir="false" />
@@ -141,6 +142,14 @@
       <change beforePath="$PROJECT_DIR$/../Prgm_1_login/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prgm_1_login/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prgm_1_login/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prgm_1_login/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prgm_4_SharedPreferences/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prgm_4_SharedPreferences/.idea/misc.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/../Prgm_1_login/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prgm_1_login/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prgm_1_login/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prgm_1_login/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prgm_2_Factorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prgm_2_Factorial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prgm_8_RelativeLayout/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prgm_8_RelativeLayout/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prgm_8_RelativeLayout/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prgm_8_RelativeLayout/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prgm_9_Calculator_GridLayout/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prgm_9_Calculator_GridLayout/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,11 +203,17 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+<<<<<<< Updated upstream
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Android Studio Projects/MCA-S3-Android-Lab/Prgm_3_SimpleCalculator",
     "show.migrate.to.gradle.popup": "false"
+=======
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Android Studio Projects/Prgm_3_SimpleCalculator"
+>>>>>>> Stashed changes
   }
 }]]></component>
   <component name="RunManager">

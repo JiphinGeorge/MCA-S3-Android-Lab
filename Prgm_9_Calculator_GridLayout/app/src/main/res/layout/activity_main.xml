@@ -70,12 +70,12 @@
         android:id="@+id/four"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:layout_columnWeight="1"
         android:layout_rowWeight="1"
+        android:layout_columnWeight="1"
         android:layout_margin="3dp"
-        android:backgroundTint="#C5A514"
-        android:textSize="50sp"
-        android:text="4" />
+        android:backgroundTint="#E6D018"
+        android:text="4"
+        android:textSize="50sp" />
 
     <Button
         android:id="@+id/five"

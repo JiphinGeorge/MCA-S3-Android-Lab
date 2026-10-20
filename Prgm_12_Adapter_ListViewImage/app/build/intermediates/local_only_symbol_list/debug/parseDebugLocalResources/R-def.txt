@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable apple
+drawable banana
+drawable cranberry
+drawable dragonfruit
+drawable elderberry
+drawable fig
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id imageviewid
+id listviewid
+id main
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Prgm_12_Adapter_ListViewImage
+style Theme.Prgm_12_Adapter_ListViewImage
+xml backup_rules
+xml data_extraction_rules

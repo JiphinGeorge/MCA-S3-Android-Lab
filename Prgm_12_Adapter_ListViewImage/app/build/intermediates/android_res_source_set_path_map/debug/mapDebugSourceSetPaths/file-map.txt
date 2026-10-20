@@ -1,0 +1,8 @@
+com.example.prgm_12_adapter_listviewimage.app-pngs-0 D:\Android Studio Projects\Prgm_12_Adapter_ListViewImage\app\build\generated\res\pngs\debug
+com.example.prgm_12_adapter_listviewimage.app-updated_navigation_xml-1 D:\Android Studio Projects\Prgm_12_Adapter_ListViewImage\app\build\generated\updated_navigation_xml\debug
+com.example.prgm_12_adapter_listviewimage.app-packageDebugResources-2 D:\Android Studio Projects\Prgm_12_Adapter_ListViewImage\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.prgm_12_adapter_listviewimage.app-packageDebugResources-3 D:\Android Studio Projects\Prgm_12_Adapter_ListViewImage\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.prgm_12_adapter_listviewimage.app-debug-4 D:\Android Studio Projects\Prgm_12_Adapter_ListViewImage\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.prgm_12_adapter_listviewimage.app-debug-5 D:\Android Studio Projects\Prgm_12_Adapter_ListViewImage\app\src\debug\res
+com.example.prgm_12_adapter_listviewimage.app-main-6 D:\Android Studio Projects\Prgm_12_Adapter_ListViewImage\app\src\main\res
+gradleHome-0 C:\Users\jiphi\.gradle
